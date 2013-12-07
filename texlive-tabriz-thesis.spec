@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-tabriz-thesis
 Version:	1.1
-Release:	3
+Release:	4
 Summary:	A template for the University of Tabriz
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabriz-thesis
