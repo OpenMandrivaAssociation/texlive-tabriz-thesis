@@ -3,7 +3,7 @@ Version:	51729
 Release:	2
 Summary:	A template for the University of Tabriz
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabriz-thesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tabriz-thesis
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabriz-thesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabriz-thesis.doc.r%{version}.tar.xz
